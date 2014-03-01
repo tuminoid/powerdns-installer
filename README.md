@@ -8,7 +8,7 @@ Modify some configs in beginning of `install.sh` file.
 
 Additional information
 ==================
-SSH
+SSH:
 Port:     2222
 Username: vagrant
 Password: vagrant
