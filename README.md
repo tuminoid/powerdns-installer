@@ -8,18 +8,21 @@ Modify some configs in beginning of `install.sh` file.
 
 Additional information
 ==================
+```bash
 SSH:
 Port:     2222
 Username: vagrant
 Password: vagrant
-
+```
 Apache2 port: 40080
 
 Proceed with the installation:
 http://localhost:40080/poweradmin/install/
 
 MySQL needed in Step3 of the installer:
+```bash
 Host: 127.0.0.1
 DB: powerdns
 User: power_admin
 Pass: admin
+```
